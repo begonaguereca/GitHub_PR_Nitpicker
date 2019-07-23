@@ -1,6 +1,7 @@
 branches:
   - name: master
   - name: official/*
+   enabled: false
   - name: user/etdenn/
     enabled: false
 
